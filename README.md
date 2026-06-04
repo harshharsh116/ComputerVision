@@ -1,6 +1,1 @@
-# ComputerVision
-# COMPUTER VISION FUNDAMENTALS
-
-**Subject:** Computer Vision Fundamentals
-
----
+A computer vision project that leverages deep learning and image processing techniques to analyze, detect, and classify visual data. Built using Python, OpenCV, and modern machine learning frameworks for real-world applications.
